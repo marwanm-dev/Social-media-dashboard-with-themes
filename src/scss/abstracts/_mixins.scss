@@ -1,0 +1,23 @@
+// For ::before psuedo elements
+@mixin pseudo {
+  content: '';
+  position: absolute;
+}
+
+// For centering with flex
+@mixin center($dir, $justify: space-between, $align: center) {
+  display: flex;
+  flex-direction: $dir;
+  justify-content: $justify;
+  align-items: $align;
+}
+
+// Breakpoints
+$br-mob: 700px;
+
+// For media Query
+@mixin media($size) {
+  @media (max-width: $size) {
+    @content;
+  }
+}
