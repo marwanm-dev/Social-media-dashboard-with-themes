@@ -9,7 +9,7 @@
 
 # Live
 
-- https://marodevv-social-media-dashboard-with-themes.pages.dev/
+- https://marodevv-social-media-dashboard-with-themes.vercel.app
 
 # Credit
 
