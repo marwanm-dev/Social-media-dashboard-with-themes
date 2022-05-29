@@ -1,16 +1,26 @@
-# Social-media-dashboard-with-themes
+# Project-name
 
-- Fully responsive & animated
+-   Fully responsive & animated
 
-- Tech used with *vite*🔥:
-  Html
-  Sass
-  Javascript
+-   Tech used with *vite*🔥:
+
+        > Frontend
+
+            React
+            Tailwind & Styled Components
+            Framer motion
+            Axios
+
+        > Backend
+
+            MongoDB
+            Express
+            Node.js
 
 # Live
 
-- https://marodevv-social-media-dashboard-with-themes.vercel.app
+-   https://marodevv-project-name.vercel.app
 
 # Credit
 
-- Inspired by Frontend Mentor
+-   Inspired by Website
