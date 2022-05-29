@@ -1,21 +1,21 @@
 # Project-name
 
--   Fully responsive & animated
+> Fully responsive & animated
 
--   Tech used with *vite*🔥:
+> Tech used with *vite*🔥:
 
         > Frontend
 
-            React
-            Tailwind & Styled Components
-            Framer motion
-            Axios
+            - React
+            - Tailwind & Styled Components
+            - Framer motion
+            - Axios
 
         > Backend
 
-            MongoDB
-            Express
-            Node.js
+            - MongoDB
+            - Express
+            - Node.js
 
 # Live
 
