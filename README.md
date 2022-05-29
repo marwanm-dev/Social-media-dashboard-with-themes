@@ -1,8 +1,8 @@
 # Project-name
 
-### Fully responsive & animated
+## Fully responsive & animated
 
-### Tech used with *vite*🔥:
+## Tech used with *vite*🔥:
 
 > Frontend
 
@@ -17,10 +17,10 @@
 -   Express
 -   Node.js
 
-### Live
+## Live
 
 > https://marodevv-project-name.vercel.app
 
-### Credit
+## Credit
 
 > Inspired by Website
