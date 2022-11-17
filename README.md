@@ -10,7 +10,7 @@
 
 ## Live
 
-> https://marodevv-social-media-dashboard-with-themes.vercel.app
+> https://marwanmodev-social-media-dashboard-with-themes.vercel.app
 
 ## Credit
 
